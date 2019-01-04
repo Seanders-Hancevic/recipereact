@@ -1,13 +1,13 @@
 {
-  "main.css": "/recipereact/static/css/main.1e6d23f2.chunk.css",
-  "main.js": "/recipereact/static/js/main.835e8ca8.chunk.js",
-  "main.js.map": "/recipereact/static/js/main.835e8ca8.chunk.js.map",
+  "main.css": "/recipereact/static/css/main.3287c6fa.chunk.css",
+  "main.js": "/recipereact/static/js/main.0227e820.chunk.js",
+  "main.js.map": "/recipereact/static/js/main.0227e820.chunk.js.map",
   "static/js/1.af2c9dd9.chunk.js": "/recipereact/static/js/1.af2c9dd9.chunk.js",
   "static/js/1.af2c9dd9.chunk.js.map": "/recipereact/static/js/1.af2c9dd9.chunk.js.map",
   "runtime~main.js": "/recipereact/static/js/runtime~main.aa3e92d0.js",
   "runtime~main.js.map": "/recipereact/static/js/runtime~main.aa3e92d0.js.map",
-  "static/css/main.1e6d23f2.chunk.css.map": "/recipereact/static/css/main.1e6d23f2.chunk.css.map",
+  "static/css/main.3287c6fa.chunk.css.map": "/recipereact/static/css/main.3287c6fa.chunk.css.map",
   "index.html": "/recipereact/index.html",
-  "precache-manifest.1bc130e35f687faadf2b2f221e57c160.js": "/recipereact/precache-manifest.1bc130e35f687faadf2b2f221e57c160.js",
+  "precache-manifest.6d8bc50552b45653b4bfd50f96a6c7b5.js": "/recipereact/precache-manifest.6d8bc50552b45653b4bfd50f96a6c7b5.js",
   "service-worker.js": "/recipereact/service-worker.js"
 }
